@@ -5,4 +5,4 @@ A homepage foi desenvolvida no R Markdown a partir do pacote rmdformats com o te
 
 O conteúdo é óriundo das aulas de Estatística Básica da professoara Adriana Andrade da UFRRJ.
 
-<p align="center"> <ing align = "center" src="https://profile.counter.glitch.me/andradeadriana/count.svg" / ></ing>p>
+<p align="center"> <ing align = "center" src="https://profile.counter.glitch.me/andradeadriana/count.svg" /></ing>p>
